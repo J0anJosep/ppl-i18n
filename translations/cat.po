@@ -107,7 +107,7 @@ msgstr "Abans conegut com a Assault"
 #. Short description of the "ceasefire" game mode
 #: ../client/application/game/levels/game_levels.cpp:199
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evolució del pacifisme"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
@@ -122,7 +122,7 @@ msgstr "Amb potència de disparar van habilitats per a esquivar"
 #. Short description of the "partitioner" game mode
 #: ../client/application/game/levels/game_levels.cpp:235
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Lligueu coses per a fer-les desaparèixer"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
@@ -743,22 +743,22 @@ msgstr "Efecte vignette"
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Black"
-msgstr ""
+msgstr "Negre"
 
 #. The color "blue"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Blue"
-msgstr ""
+msgstr "Blau"
 
 #. The color "teal"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
 msgid "Teal"
-msgstr ""
+msgstr "Verd blavós"
 
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Green"
-msgstr ""
+msgstr "Verd"
 
 #. The color "pink"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
@@ -769,7 +769,7 @@ msgstr "Rosa"
 #. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
 msgid "Background hue"
-msgstr ""
+msgstr "To del fons"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
@@ -825,7 +825,7 @@ msgstr "Reinici ràpid: %s"
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Alenteix: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
